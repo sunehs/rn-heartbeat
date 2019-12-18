@@ -6,3 +6,8 @@ android/app/build/
 android/.idea/
 android/*.iml
 android/.gradle/*
+
+!debug.keystore
+
+# CocoaPods
+/ios/Pods/
